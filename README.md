@@ -1,5 +1,5 @@
 # React TV show adviser
-Link :  [https://react-tv-show-adviser-5qswjad0z-sathiranipuns-projects.vercel.app/](https://react-tv-show-adviser-kappa.vercel.app/)
+Link :  https://react-tv-show-adviser-kappa.vercel.app/
 
 ## Getting started
 
