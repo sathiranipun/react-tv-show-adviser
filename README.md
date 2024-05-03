@@ -1,4 +1,4 @@
-# React TV show adviser
+# MovieHub React TV show adviser
 Link :  https://react-tv-show-adviser-kappa.vercel.app/
 
 ## Getting started
