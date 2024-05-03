@@ -9,7 +9,7 @@ import TVShowListItem from "./components/TVShowListItem/TVShowListItem.js";
 import TVShowList from "./components/TVShowList/TVShowList.js";
 import SearchBar from "./components/SearchBar/SearchBar.js";
 
-
+console.log(process.env.REACT_APP_API_KEY_PARAM);
 export function App() {
   const [currentTVShow, setCurrentTVShow] = useState();
   const [recommendationList, setRecommendationList] = useState([]);
